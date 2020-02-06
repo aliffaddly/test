@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar li{
+    display: inline;
+    padding: 50px;
+    
+}
+
+.navbar ul{
+    margin-top: 0;
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.navbar a{
+    color: #eaf6f6;
+    text-decoration: none;
+}
+
+.profpict{
+    width: 200px;
+    height: 250px;
+}
+
+nav{
+    height: 50px;
+    background-color: grey;
+}
+
+.top-content h1{
+    text-align: center;
+    font-size: 78px;
+    margin-bottom: 20px;
+    margin-top: 0;
+    color: #66bfbf;
+}
+
+.top-content h2{
+    text-align: center;
+    color: #66bfbf;
+}
+
+.top-content{
+    margin-bottom: 50px;
+    background-color: #eaf6f6;
+    padding: 50px;
+}
+
+.profile{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.profile h2,p{
+    margin-bottom: 5px;
+}
+
+.profile h2{
+    color: #66bfbf;
+    font-size: 36px;
+}
+
+.skills{
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+.skills h2{
+    font-size: 36px;
+    color: #66bfbf;
+    text-align: center;
+}
+
+.skill1{
+    margin-bottom: 50px;
+}
+
+.codepic{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.codepic2{
+    width: 20%;
+    float: right;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.contact{
+    text-align: center;
+}
+
+.contact h2{
+    color: #66bfbf;
+    font-size: 36px;
+}
+
+footer{
+    background-color: #66bfbf;
+    height: 70px;
+    padding-top: 20px;
+    margin-top: 30px;
+}
+
+footer li{
+    margin-right: 30px;
+    display: inline;
+    margin-bottom: 0;
+    
+}
+
+footer a{
+    color: #eaf6f6;
+    text-decoration: none;
+    
+}
+
+hr{
+    width: 10%;
+    border: 1px solid;
+    
+}
+
+.btn-submit{
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 10px;
+    font-family: 'Poppins';
+    border-color: aqua;
+    transition-duration: 0.4s;
+}
+
+.btn-submit:hover{
+    color: white;
+    background-color: #66bfbf;
+}
+
+.footer-link{
+    text-align: center;
+}
